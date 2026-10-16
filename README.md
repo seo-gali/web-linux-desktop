@@ -2,7 +2,7 @@
 
 > Windows에 Linux 데스크톱을 별도로 설치하지 않고, Docker Desktop에서 실행되는 KDE Plasma 환경을 웹 브라우저로 사용하는 프로젝트
 
-[🌐 프로젝트 정리 슬라이드](https://seoheejung.github.io/web-linux-desktop/)
+[🌐 프로젝트 정리 슬라이드](https://seo-gali.github.io/web-linux-desktop/)
 
 ![KDE Plasma 실행 화면](./images/main.png)
 
